@@ -1606,4 +1606,8 @@ print(numbers)
 # 2
 # [1, 3, 4]
 
+Q1. Write a program to increment the elements of a list with a number.
+Q2. Write a program that reverses a list of integers (in place).
+Q 3. Write a program that input two lists and create a third , that contains all elements of the first followed by all elements of the second .
+Q4. Ask the user to enter a list containing numbers between 1 and 12 then replace all of the entries in the list that are greater than 10 with 10 .
 """
