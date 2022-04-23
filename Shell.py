@@ -1610,4 +1610,11 @@ Q1. Write a program to increment the elements of a list with a number.
 Q2. Write a program that reverses a list of integers (in place).
 Q 3. Write a program that input two lists and create a third , that contains all elements of the first followed by all elements of the second .
 Q4. Ask the user to enter a list containing numbers between 1 and 12 then replace all of the entries in the list that are greater than 10 with 10 .
+Q11). Python program to reverse an Array in two ways.
+Q12). Python Program to calculate length of an array.
+Q13). Python program to insert an element at end of an Array
+14). Python program to insert elements at a given location in Array.
+15). Python Program to delete elements at end of Array.
+16). Python Program to delete given element from Array.
+17). Python Program to delete element from array at given index.
 """
